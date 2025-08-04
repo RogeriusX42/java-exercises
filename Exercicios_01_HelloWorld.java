@@ -6,6 +6,7 @@ public class Exercicios_01_HelloWorld{
 		System.out.println("Deutsch - Hallo Welt!");
 		System.out.println("Al Arabiya - Marhaban Bialealam"); 
 		System.out.println("Mandarin - Ni Hao Shijie"); 
+		System.out.println("EspaÃol - Â¡OFHola Mundo!");
 	}
 }
 
